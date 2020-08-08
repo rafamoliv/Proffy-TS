@@ -1,1 +1,1 @@
-# Proffy-TS
+![Logo](./src/assets/images/landing.svg)
